@@ -1,0 +1,11 @@
+@media (min-width: 320px) and (max-width: 410px) {
+  .drum svg {
+    width: 90%;
+  }
+}
+
+@media (min-width: 411px) {
+  .drum svg {
+    width: 80%;
+  }
+}
