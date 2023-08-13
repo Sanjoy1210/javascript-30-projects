@@ -1,3 +1,4 @@
+/* media file */
 @media (min-width: 320px) and (max-width: 410px) {
   .drum svg {
     width: 90%;

@@ -22,6 +22,7 @@ html {
   font-size: 1.5rem;
 }
 
+/* drums animation */
 .animation {
   animation-duration: 0.1s;
   animation-name: rollDrum;
@@ -33,6 +34,7 @@ html {
   height: 400px;
 }
 
+/* keys */
 .keys {
   display: flex;
   flex-wrap: wrap;
@@ -73,6 +75,7 @@ kbd {
   color: rgb(92, 92, 92);
 }
 
+/* drums animation */
 @keyframes rollDrum {
   from {
     transform-origin: 50% 50%;

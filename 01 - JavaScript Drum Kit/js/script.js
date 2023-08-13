@@ -1,4 +1,4 @@
-// 1st approach
+// 1st approach 
 // (function() {
 //   const keys = document.querySelectorAll('div.key');
 
