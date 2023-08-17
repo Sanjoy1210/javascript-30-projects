@@ -1,0 +1,68 @@
+* {
+  background-color: aliceblue;
+  font-size: 0.9rem;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+button {
+  padding: 5px 8px;
+  color: white;
+  border: 0;
+  cursor: pointer;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-green {
+  background-color: green;
+}
+
+.centered {
+  position: fixed;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -10%);
+}
+
+.center {
+  text-align: center;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+span.blink {
+  animation: blink 0.75s step-end infinite;
+}
+
+#preview {
+  box-sizing: border-box;
+  margin-top: 60px;
+  padding: 10px;
+  width: 100%;
+  background-color: #ffffff;
+}
+
+@keyframes blink {
+  from,
+  to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
