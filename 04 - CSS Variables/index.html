@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Variables</title>
+
+    <!-- css file -->
+    <link rel="stylesheet" href="styles/style.css" />
+  </head>
+  <body>
+    <h1 class="title">
+      Update CSS Variables with <span class="highlight">JS</span>
+    </h1>
+
+    <div class="controls">
+      <label for="spacing">Spacing:</label>
+      <input
+        type="range"
+        name="spacing"
+        id="spacing"
+        value="10"
+        min="0"
+        max="100"
+        data-sizing="px"
+      />
+
+      <label for="blur">Blur:</label>
+      <input
+        type="range"
+        name="blur"
+        id="blur"
+        value="10"
+        min="0"
+        max="50"
+        data-sizing="px"
+      />
+
+      <label for="base">Base color:</label>
+      <input type="color" name="base" id="base" value="#BADA55" />
+    </div>
+
+    <img
+      src="https://images.unsplash.com/photo-1690127772380-6f55bc00b418?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80"
+      alt="Bangladeshi Guys"
+    />
+
+    <!-- script file -->
+    <script src="js/index.js"></script>
+  </body>
+</html>
