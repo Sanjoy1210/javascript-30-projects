@@ -14,3 +14,4 @@
 - [01 - JavaScript Drum Kit](https://awesome-js-drum-kit.netlify.app/)
 - [02 - JS and CSS Clock](https://nice-js-clock.netlify.app/)
 - [03 - Speech To Code](https://speech-to-code.netlify.app/)
+- [04 - Update CSS Variables With JS](https://css-variables-update.netlify.app/)
