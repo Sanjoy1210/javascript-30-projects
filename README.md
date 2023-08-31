@@ -15,3 +15,4 @@
 - [02 - JS and CSS Clock](https://nice-js-clock.netlify.app/)
 - [03 - Speech To Code](https://speech-to-code.netlify.app/)
 - [04 - Update CSS Variables With JS](https://css-variables-update.netlify.app/)
+- [06 - Flex Panels Image Gallery](https://flex-panel-images-gallery.netlify.app/)
