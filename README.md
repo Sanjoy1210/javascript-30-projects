@@ -17,3 +17,4 @@
 - [04 - Update CSS Variables With JS](https://css-variables-update.netlify.app/)
 - [06 - Flex Panels Image Gallery](https://flex-panel-images-gallery.netlify.app/)
 - [07 - Ajax Type Ahead](https://ajax-search-place.netlify.app/)
+- [08 - Awesome JS Toast](https://js-toast.netlify.app/)
